@@ -160,7 +160,7 @@ implement your own `AuthenticationException`, and call it `InvalidEmailDomainExc
 
 <details>
 
-<summary>📖 CustomOidcAuhtenticationProvider.java</summary>
+<summary>📖 CustomOidcAuthenticationProvider.java</summary>
 
 ```java
 public class CustomOidcAuthenticationProvider implements AuthenticationProvider {
