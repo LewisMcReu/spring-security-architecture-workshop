@@ -29,7 +29,7 @@ the application through your favorite IDE, or through the command-line using gra
 Linux or Mac, from the root directory of the project:
 
 ```bash
-./gradlew :1-first-application:bootRun
+./gradlew :1-base-application:bootRun
 ```
 
 The app will run locally, on port 8080: http://localhost:8080/

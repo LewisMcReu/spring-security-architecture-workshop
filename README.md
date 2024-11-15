@@ -63,7 +63,7 @@ all things! Notably, we probably will not cover:
 _instructor_ Welcome ; explain the format ; share the repository
 
 1. Adding Spring Security to an existing project
-    - _instructor_ 🗒️ mention WebSecurityConfigurerAdapater and lambda-DSL
+    - _instructor_ 🗒️ mention WebSecurityConfigurerAdapter and lambda-DSL
     - _instructor_ 🗒️ a word on VS Code and IntelliJ
     - _instructor_ 🗒️ a word on IntelliJ's HTTP client
     - _instructor_ 💡 introduce filters and filter chain
